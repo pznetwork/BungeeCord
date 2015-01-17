@@ -1,5 +1,7 @@
 BungeeCord
 ==========
+[![Build Status](https://travis-ci.org/pznetwork/BungeeCord.svg?branch=master)](https://travis-ci.org/pznetwork/BungeeCord)
+
 The most reliable Minecraft server portal suite.
 ------------------------------------------------
 BungeeCord is a piece of Java software which allows a user to link multiple Minecraft servers together, allowing players to teleport between them and access advanced features. This makes it perfect for servers looking to expand their player base and spread across multiple gameplay styles.
