@@ -1,6 +1,7 @@
 BungeeCord
 ==========
 [![Build Status](https://travis-ci.org/pznetwork/BungeeCord.svg?branch=master)](https://travis-ci.org/pznetwork/BungeeCord)
+[![codecov.io](https://codecov.io/github/pznetwork/BungeeCord/coverage.svg?branch=master)](https://codecov.io/github/pznetwork/BungeeCord?branch=master)
 
 The most reliable Minecraft server portal suite.
 ------------------------------------------------
